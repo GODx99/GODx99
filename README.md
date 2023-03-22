@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am new in this field so i don't know what can i say :(
+Godxopenai is use for getting any type of Answer...this feature is inspierd by chatGPT.
 
 Something about me :)
   
