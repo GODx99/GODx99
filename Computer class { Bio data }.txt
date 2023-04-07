@@ -1,0 +1,26 @@
+Name: _____________
+
+Address: ____________
+
+Date of Birth: ___________
+
+Gender: ___________
+
+Marital Status: _________       ( single, married, divorced)
+
+Nationality: __________  
+
+Career Objective: _________  
+
+Education: ___________
+
+Work Experience: ________
+
+Skills: ____________
+
+Hobbies: ___________
+
+Languages: __________
+
+
+                                            
